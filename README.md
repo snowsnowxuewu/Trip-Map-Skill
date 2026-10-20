@@ -19,7 +19,12 @@ Turn any trip or journey into an animated, illustrated map. Give it a title and 
 
 ## Examples
 
-| Fantasy Realm (square) | Ink Wash (wide) |
+| Comic | 8-bit Pixel |
+|---|---|
+| ![Denmark 2026 in Comic style](denmark-2026-comic.gif) | ![Denmark 2026 in 8-bit Pixel style](denmark-2026-pixel.gif) |
+| ▶ [Watch the MP4](denmark-2026-comic.mp4) | ▶ [Watch the MP4](denmark-2026-pixel.mp4) |
+
+| Fantasy Realm | Ink Wash (wide) |
 |---|---|
 | ![Denmark 2026 in Fantasy Realm style](denmark-2026-realm.gif) | ![Japan Spring in Ink Wash style](japan-spring-inkwash.gif) |
 
